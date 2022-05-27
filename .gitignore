@@ -1,3 +1,2 @@
-*.pdf
 /solutions
-/solutions/*
+.DS_Store
